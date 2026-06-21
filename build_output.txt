@@ -1,0 +1,12 @@
+[BUILD] Configuring CMake...
+-- The C compiler identification is GNU 15.2.1
+-- The ASM compiler identification is GNU
+-- Found assembler: F:/anzhuang/arm-gun-gcc/bin/arm-none-eabi-gcc.exe
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - failed
+-- Check for working C compiler: F:/anzhuang/arm-gun-gcc/bin/arm-none-eabi-gcc.exe
+-- Check for working C compiler: F:/anzhuang/arm-gun-gcc/bin/arm-none-eabi-gcc.exe - broken
+-- Configuring incomplete, errors occurred!
+[ERROR] CMake configuration failed!
+请按任意键继续. . . 
+终止批处理操作吗(Y/N)? 终止批处理操作吗(Y/N)? 

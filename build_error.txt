@@ -1,0 +1,25 @@
+CMake Error at F:/anzhuang/cmake/share/cmake-4.3/Modules/CMakeTestCCompiler.cmake:67 (message):
+  The C compiler
+
+    "F:/anzhuang/arm-gun-gcc/bin/arm-none-eabi-gcc.exe"
+
+  is not able to compile a simple test program.
+
+  It fails with the following output:
+
+    Change Dir: 'F:/download/1111/plant_assistant/demo/Project/CMAKE_Project/build/CMakeFiles/CMakeScratch/TryCompile-afqkg4'
+    
+    Run Build Command(s): F:/anzhuang/ninja-win/ninja.exe -v cmTC_715e0
+    ninja: fatal: GetOverlappedResult: The operation completed successfully.
+    
+    
+    
+
+
+
+  CMake will not be able to correctly generate this project.
+Call Stack (most recent call first):
+  CMakeLists.txt:7 (project)
+
+
+^C
